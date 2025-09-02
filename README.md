@@ -35,10 +35,6 @@
 ---
 
 ## 🤝 Connect with Me  
-- 📫 Email: [your-email@example.com]  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
-- 🌐 Portfolio: [Your Website](#)  
-
----
-
-✨ *“Code, learn, and grow every day!”*
+- 📫 Email: akramshahareare1@gmail.com 
+- 💼 LinkedIn: later
+- 🌐 Portfolio: Later
