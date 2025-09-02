@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm Akram Shahareare  
 
-<!--
-**akram-shahareare/akram-shahareare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CSE Student | Aspiring Software Engineer**  
+💻 Passionate about learning programming, problem solving, and building useful projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently learning **C (Structured Programming Language)** and **Java (Object-Oriented Programming)**  
+- 📚 Exploring **Data Structures & Algorithms** as part of my CSE journey  
+- 💡 Interested in **Web Development & Software Engineering**  
+- 🎯 Goal: Become a skilled **Software Engineer** and contribute to impactful projects  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages**: C, Java (OOP), Python (beginner)  
+- **Concepts**: Structured Programming, OOP Principles  
+- **Tools**: Git, GitHub, VS Code, IntelliJ IDEA  
+
+---
+
+## 📂 Featured Repositories  
+- 🔹 [C Programming Practice](#) – My codes and exercises while learning C  
+- 🔹 [Java OOP Projects](#) – Object-oriented programming practice projects  
+- 🔹 [Problem Solving](#) – Collection of solved problems (DSA, algorithms)  
+
+---
+
+## 📈 GitHub Stats  
+![Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=akram-shahareare&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akram-shahareare&layout=compact&theme=tokyonight)  
+
+---
+
+## 🤝 Connect with Me  
+- 📫 Email: [your-email@example.com]  
+- 💼 LinkedIn: [Your LinkedIn Profile](#)  
+- 🌐 Portfolio: [Your Website](#)  
+
+---
+
+✨ *“Code, learn, and grow every day!”*
